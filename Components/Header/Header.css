@@ -1,0 +1,40 @@
+ul li{
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.h-top a{
+    color: white;
+    text-decoration: none;
+}
+
+.h-top {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(118, 126, 126);
+    color: white;
+}
+.h-b-l{
+width: 60%;
+}
+.h-b-r{
+width: 40%;
+}
+.h-bottom{
+    display: flex;
+    background-color: rgb(118, 126, 126) ;
+    color: white;
+    padding: 30px;
+    
+}
+button{
+    margin-right: 15px;
+}
+.h-b-r{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

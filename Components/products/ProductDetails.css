@@ -1,0 +1,43 @@
+.parent{
+    display: flex;
+    margin-top: 40px;
+
+}
+
+.left{
+    width: 40%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.right{
+    width: 60%;
+    margin-top: 20px;
+}
+.price{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.bottom{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.main img{
+height: 200px;
+width: 200px;
+border-radius: 5px;
+}
+.bottom img{
+height: 60px;
+width: 60px;
+border-radius: 5px;
+}
