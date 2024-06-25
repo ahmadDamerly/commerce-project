@@ -25,7 +25,7 @@ export const Item = ({product}) => {
 
         <div className='cart-top'> 
         <a href={mylink}>
-        <img src={myurl} alt="" style={{height : '70px' , width : '70px'}}/>
+        <img src={myurl} alt="" style={{height : '120px' , width : '150px'}}/>
         </a>
         </div>
         <div className='cart-bottom'>
